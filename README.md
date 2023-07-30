@@ -6,7 +6,7 @@
 - 👀 I’m interested in **ML**
 
   
-- 🔭 I’m currently working on [END_TO_END ML project]
+- 🔭 I’m currently working on END_TO_END ML project
 
 - 🌱 I’m currently learning **DSA**
 
